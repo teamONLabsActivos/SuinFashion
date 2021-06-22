@@ -1,1 +1,13 @@
-Estilos
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+elemet.style {
+
+}
+footer {
+    display: block;
+}
+.footer__copyright {
+    background:#353535; color:#ccc; padding: 20px 0;
+}
